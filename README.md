@@ -1,6 +1,7 @@
 Chekov's Cat
 ==========
 Northeastern University: London, AE1 Design Project for LENGR4117 Cornerstone of Engineering I 2024/25
+
 ![chekovs_cat2](https://github.com/user-attachments/assets/b67b9f7b-3baf-45b0-8b31-0bed4e5dea06)
 
 ## Abstract
@@ -14,8 +15,6 @@ In this project the task was designing, building, programming, and testing a rob
 To access the final project report or answer any queries, [please reach out](hill.alexan@northeastern.edu).
 
 
-
-
 <h3> References </h3>
 
 [1] Arduino. (n.d.). Servo library. Arduino. Available: https://docs.arduino.cc/libraries/servo/. Accessed Dec. 14, 2024.
@@ -24,3 +23,5 @@ To access the final project report or answer any queries, [please reach out](hil
 
 [3]  Registrar, March 2023. Assessment Brief: Group Work with Essay 2024–25, Registrar VLE/
 Faculty Resources Page. Northeastern University London. Accessed Dec. 14, 2024.
+
+<h5> If you see something in the example code / RedBoard instructions relevant to the project, know that it may or may not be extremely relevant at a later time (Chekov's gun + Schrödinger's cat). </h5>
