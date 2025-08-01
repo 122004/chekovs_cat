@@ -27,4 +27,4 @@ To access the final project report or answer any queries, [please reach out](hil
 Faculty Resources Page. Northeastern University London. Accessed Dec. 14, 2024.
 
 
-<h5> If you see something in the example code / RedBoard instructions relevant to the project, know that it may or may not be extremely relevant at a later time (Chekov's gun + Schrödinger's cat). </h5>
+<h5> If you see something in the example code / RedBoard instructions relevant to the project, know that it may or may not be extremely relevant at a later time (Chekhov's gun + Schrödinger's cat). </h5>
