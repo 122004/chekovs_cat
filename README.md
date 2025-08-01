@@ -1,4 +1,4 @@
-Chekov's Cat
+Chekhov's Cat
 ==========
 Northeastern University: London, AE1 Design Project for LENGR4117 Cornerstone of Engineering I 2024/25
 
